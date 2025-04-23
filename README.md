@@ -1,0 +1,2 @@
+Projeto DIO - Chatbot Profissional
+Este projeto é uma representação detalhada da minha trajetória profissional, integrada em um chatbot inovador. Ele oferece uma linha do tempo interativa com todas as minhas experiências, destacando as etapas mais importantes dos meus processos e conquistas ao longo da carreira. O objetivo é proporcionar uma visão clara e organizada das minhas competências e crescimento profissional
